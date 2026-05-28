@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "gooddex",
   "VITE_ORDERLY_BROKER_NAME": "GoodDEX",
   "VITE_BROKER_EOA_ADDRESS": "0x6ebd2a26acd41f3bcf6bb00e875b70bb2857c9be",
   "VITE_DISABLE_MAINNET": "false",
